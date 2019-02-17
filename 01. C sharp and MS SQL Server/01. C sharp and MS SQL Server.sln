@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Connection_String", "01_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Creating_Connection", "02_Creating_Connection\02_Creating_Connection.csproj", "{E8099DFD-E3EF-4891-99F4-D3C14B2A2DE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SqlCommand_Execution_Types", "03_SqlCommand_Execution_Types\03_SqlCommand_Execution_Types.csproj", "{2C49FE15-CB8D-4D85-AAFB-0BFF8768C95C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E8099DFD-E3EF-4891-99F4-D3C14B2A2DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8099DFD-E3EF-4891-99F4-D3C14B2A2DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8099DFD-E3EF-4891-99F4-D3C14B2A2DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C49FE15-CB8D-4D85-AAFB-0BFF8768C95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C49FE15-CB8D-4D85-AAFB-0BFF8768C95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C49FE15-CB8D-4D85-AAFB-0BFF8768C95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C49FE15-CB8D-4D85-AAFB-0BFF8768C95C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
